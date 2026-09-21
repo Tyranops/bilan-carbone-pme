@@ -56,7 +56,7 @@ Les principaux postes d'émissions identifiés sont :
 | Eau | 0,43 tCO2e | < 1 % |
 
 ## 🎯 Plan d'actions
-
+Les données étant fictives et sans accès direct à l’entreprise, le plan d’actions repose sur des hypothèses construites à partir des principaux postes d’émissions identifiés. Il vise à illustrer la dernière étape de la démarche : passer du diagnostic carbone à la définition d’actions de réduction.
 L'analyse des résultats a permis d'identifier plusieurs leviers de réduction : efficacité énergétique, prolongation de la durée de vie du matériel informatique, mobilité des salariés, covoiturage et réduction de l'impact des déplacements professionnels.
 
 ## ⚠️ Limites du projet
