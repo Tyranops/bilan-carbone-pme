@@ -54,6 +54,15 @@ Les principaux postes d'émissions identifiés sont :
 | Fret | 4,31 tCO2e | 3 % |
 | Services numériques | 1,16 tCO2e | 1 % |
 | Eau | 0,43 tCO2e | < 1 % |
+## 📈 Visualisation des résultats
+
+### Émissions de GES par poste
+
+![Émissions de GES par poste](visuals/emissions_par_poste.png)
+
+### Détail des émissions liées aux achats
+
+![Émissions des achats par sous-poste](visuals/emissions_achats_par_sous_poste.png)
 
 ## 🎯 Plan d'actions
 Les données étant fictives et sans accès direct à l’entreprise, le plan d’actions repose sur des hypothèses construites à partir des principaux postes d’émissions identifiés. Il vise à illustrer la dernière étape de la démarche : passer du diagnostic carbone à la définition d’actions de réduction.
